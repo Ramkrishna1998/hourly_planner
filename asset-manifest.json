@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hourly_planner/static/css/main.92f05f82.chunk.css",
+    "main.js": "/hourly_planner/static/js/main.7db4be93.chunk.js",
+    "main.js.map": "/hourly_planner/static/js/main.7db4be93.chunk.js.map",
+    "runtime-main.js": "/hourly_planner/static/js/runtime-main.0a2bdd61.js",
+    "runtime-main.js.map": "/hourly_planner/static/js/runtime-main.0a2bdd61.js.map",
+    "static/js/2.6f242c19.chunk.js": "/hourly_planner/static/js/2.6f242c19.chunk.js",
+    "static/js/2.6f242c19.chunk.js.map": "/hourly_planner/static/js/2.6f242c19.chunk.js.map",
+    "static/js/3.5be7b644.chunk.js": "/hourly_planner/static/js/3.5be7b644.chunk.js",
+    "static/js/3.5be7b644.chunk.js.map": "/hourly_planner/static/js/3.5be7b644.chunk.js.map",
+    "index.html": "/hourly_planner/index.html",
+    "static/css/main.92f05f82.chunk.css.map": "/hourly_planner/static/css/main.92f05f82.chunk.css.map",
+    "static/js/2.6f242c19.chunk.js.LICENSE.txt": "/hourly_planner/static/js/2.6f242c19.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hourly_planner/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a2bdd61.js",
+    "static/js/2.6f242c19.chunk.js",
+    "static/css/main.92f05f82.chunk.css",
+    "static/js/main.7db4be93.chunk.js"
+  ]
+}
